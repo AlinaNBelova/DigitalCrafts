@@ -77,12 +77,12 @@
 #     count +=1
 #     print (count)
 
-# #10
-# coins =0
-# print (f'You have {coins} coins')
-# want_coin ='yes'
-# while want_coin =='yes':
-#     coins +=1
-#     want_coin = input('Want coin? yes/no.')
-#     print (f'You have {coins}  coins.')
-# print('bye')
+#10
+coins =0
+print (f'You have {coins} coins')
+want_coin ='yes'
+while want_coin =='yes':
+    coins +=1
+    want_coin = input('Want coin? yes/no.')
+    print (f'You have {coins}  coins.')
+print('bye')
